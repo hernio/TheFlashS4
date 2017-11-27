@@ -1737,8 +1737,8 @@ Pasti gagal meledak.</font>
 
 388
 00:19:24,120 --> 00:19:29,010
-ALIH BAHASA OLEH : <font color=#ff0074>@UPILGORILLA</font>
-<font color=#ffff00>www.jogjafotovideo.com</font>
+
+<font color=#ffff00>www.nio21.ga</font>
 
 389
 00:19:30,220 --> 00:19:32,630
@@ -3186,8 +3186,8 @@ dalam kostum milikmu.</font>
 
 713
 00:33:34,050 --> 00:33:37,880
-ALIH BAHASA OLEH : <font color=#ff0074>@UPILGORILLA</font>
-<font color=#ffff00>www.jogjafotovideo.com</font>
+
+<font color=#ffff00>www.nio21.ga</font>
 
 714
 00:33:38,640 --> 00:33:40,050
@@ -3884,6 +3884,6 @@ seperti yang kau inginkan.</font>
 
 872
 00:41:47,010 --> 00:42:10,510
-ALIH BAHASA OLEH : <font color=#ff0074>@UPILGORILLA</font>
-<font color=#ffff00>www.jogjafotovideo.com</font>
+
+<font color=#ffff00>www.nio21.ga</font>
 
